@@ -1,5 +1,5 @@
 ### Every great work begins with an even better story. 
-
+<br>
 <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Hello.gif" width="500" height="500">
 
 - 🔭 Currently working on - Designing Watchfaces's UI and Screens for Noise's Smartwatches
@@ -9,7 +9,7 @@
 
 - Tools to get my work done:
 ### <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Figma.png" width="80" height="80"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Adobe%20XD.png" width="80" height="80"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Zeplin.png" width="80" height="80"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Studio.png" width="80" height="80"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/JSON.png" width="80" height="80"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/AWS.png" width="100" height="60"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/DN.png" width="80" height="80"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/AI.png" width="80" height="80"> 
-<br><br>
+<br>
 
 - 📫 How to reach me: 
   - https://www.linkedin.com/in/aaqib-ahmad/ 
