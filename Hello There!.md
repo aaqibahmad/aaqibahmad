@@ -1,17 +1,14 @@
-### Hi there 👋
+### Every great design begins with an even better story. 
+
+<img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Hello.gif" width="500" height="500">
+
+- 🔭 Currently working on - Designing Watchfaces's UI and Screens for Noise's Smartwatches
+- 🌱 Currently learning - Enterprise Design Thinking by IBM
+- 👯 I’m looking to collaborate on topics such as UI UX Designing, ML, Android & Web Development
+- 💬 Fond of conversations, involving latest technology trends.
+- 📫 How to reach me: https://www.linkedin.com/in/aaqib-ahmad/
 
 
-<!--
-**aaqibahmad/aaqibahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- To get my work done:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Hello.gif" width="500" height="500">
