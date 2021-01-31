@@ -6,6 +6,7 @@
 - 🌱 Currently learning - Enterprise Design Thinking by IBM
 - 👯 I’m looking to collaborate on topics such as UI UX Designing, ML, Android & Web Development
 - 💬 Fond of conversations, involving latest technology trends
+<br>
 
 - Tools to get my work done:
 ### <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Figma.png" width="80" height="80"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Adobe%20XD.png" width="80" height="80"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Zeplin.png" width="80" height="80"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Studio.png" width="80" height="80"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/JSON.png" width="80" height="80"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/AWS.png" width="100" height="60"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/DN.png" width="80" height="80">
