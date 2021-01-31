@@ -1,4 +1,4 @@
-### Every great design begins with an even better story. 
+### Every great work begins with an even better story. 
 
 <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Hello.gif" width="500" height="500">
 
@@ -10,5 +10,3 @@
 
 
 - To get my work done:
-
-<img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Hello.gif" width="500" height="500">
