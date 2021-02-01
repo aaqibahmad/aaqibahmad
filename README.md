@@ -9,7 +9,7 @@
 <br>
 
 - Tools to get my work done:
-### <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Figma.png" width="80" height="80"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Adobe%20XD.png" width="80" height="80"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Zeplin.png" width="80" height="80"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Studio.png" width="80" height="80"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/JSON.png" width="80" height="80"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/AWS.png" width="100" height="60"> <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/DN.png" width="80" height="80">
+### [<img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Figma.png" width="80" height="80">](https://www.figma.com/) [<img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Adobe%20XD.png" width="80" height="80">](https://www.adobe.com/in/products/xd.html) [<img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Zeplin.png" width="80" height="80">](https://zeplin.io/) [<img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Studio.png" width="80" height="80">](https://developer.android.com/studio) [<img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/JSON.png" width="80" height="80">](https://www.json.org/json-en.html) [<img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/AWS.png" width="100" height="60">](https://aws.amazon.com/what-is-aws/) [<img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/DN.png" width="80" height="80">](https://www.adobe.com/in/products/dimension.html)
 <br>
 
 - 📫 Feel Free to Connect with me: 
