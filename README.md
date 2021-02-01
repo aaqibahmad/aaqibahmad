@@ -15,4 +15,4 @@
 - 📫 Feel Free to Connect with me: 
   - [LinkedIn](https://www.linkedin.com/in/aaqib-ahmad/)
   - [Behance by Adobe](https://www.behance.net/aaqibahmad) 
-  - emailtoaaqib@gmail.com / aaqib.ahmad@outlook.com
+  - Email: emailtoaaqib@gmail.com / aaqib.ahmad@outlook.com
