@@ -1,7 +1,7 @@
 ### Crafting Digital Experiences 😇
 <br>
-<img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/Hello.gif" width="500" height="500">
-
+<img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/HelloThere.gif">
+<br>
 - 🔭 Currently working on - Designing Watchfaces' UI and Screens for Noise's Smartwatches
 - 🌱 Currently learning - Enterprise Design Thinking by IBM
 - 👯 I’m looking to collaborate on topics such as UI UX Designing, ML, Android & Web Development
