@@ -3,7 +3,7 @@
 <img src="https://github.com/aaqibahmad/aaqibahmad/blob/main/HelloThere.gif">
 
 ### How is my day going?
-  - 🔭 Currently working on - Designing Watchfaces' UI and Screens for Noise's Smartwatches
+  - 🔭 Currently working on - Designing UIs for Smartwatches and NoiseFit App
   - 🌱 Currently learning - Enterprise Design Thinking by IBM
   - 👯 I’m looking to collaborate on topics such as UI UX Designing, ML, Android & Web Development
   - 💬 Fond of conversations, involving latest technology trends
